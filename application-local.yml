@@ -1,2 +1,5 @@
+app:
+    name: Local Application
 server:
-    poort: 1000
+    port: 1000
+
