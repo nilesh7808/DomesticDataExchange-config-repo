@@ -1,5 +1,7 @@
-app:
-    name: Local Application
 server:
-    port: 1000
+  port: 8081
 
+jobinfo:
+  job1:
+    name: LocalJob
+    enabled: true
